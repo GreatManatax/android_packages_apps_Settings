@@ -115,4 +115,9 @@
     <string name="keyguard_multiuser_switch_title">Cambio Multiutente</string>
     <string name="keyguard_multiuser_switch_summary">Mostra l\'interruttore multiutente nella barra di stato</string>
     <string name="background_processes_settings_title">Processi in background</string>
+    <!-- Notification LED -->
+    <string name="custom_light_title">Colore led</string>
+    <string name="custom_light_on_time_title">"Lampeggio: tempo accensione (ms)"</string>
+    <string name="custom_light_off_time_title">"Lampeggio: tempo spegnimento (ms)"</string>
+    <string name="value_equals_default">def</string>
 </resources>
