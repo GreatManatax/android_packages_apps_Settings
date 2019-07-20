@@ -93,6 +93,8 @@
     <string name="suggested_lock_settings_custom_title" product="tablet">Asegura tu dispositivo</string>
     <string name="suggested_lock_settings_custom_title" product="device">Asegura tu dispositivo</string>
     <string name="suggested_lock_settings_custom_title" product="default">Asegurar su teléfono</string>
+    <!-- About phone, uptime. Deep sleep ratio since last reboot. -->
+    <string name="status_deep_sleep">(Deep sleep: %1$d%2$s)</string>
     <!-- Advanced night mode brightness -->
     <string name="night_brightness_value_title">Reducir brillo si está activada la luz nocturna</string>
     <string name="night_auto_value_disabled">Deshabilitado</string>
@@ -115,4 +117,9 @@
     <string name="keyguard_multiuser_switch_title">Selector de usuarios</string>
     <string name="keyguard_multiuser_switch_summary">Mostrar interruptor multiusuario en la barra de estado</string>
     <string name="background_processes_settings_title">Procesos en segundo plano</string>
+    <!-- Custom light color -->
+    <string name="custom_light_title">Color de la luz</string>
+    <string name="custom_light_on_time_title">Duración de pulso de luz encendido (ms)</string>
+    <string name="custom_light_off_time_title">Duración de pulso de luz apagado (ms)"</string>
+    <string name="value_equals_default">def</string>
 </resources>
